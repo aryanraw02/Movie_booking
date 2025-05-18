@@ -1,0 +1,1425 @@
+{
+    "now_showing": [
+        {
+            "movie": {
+                "id": "1",
+                "name": "Spirited Away",
+                "thumb": "https://upload.wikimedia.org/wikipedia/vi/thumb/3/30/Spirited_Away_poster.JPG/215px-Spirited_Away_poster.JPG",
+                "trailer": "https://www.youtube.com/watch?v=ByXuk9QqQkk",
+                "release_date": 995673600,
+                "rate": 95,
+                "votes": "95% liked by Google users",
+                "duration": 7500
+            },
+            "tami": [
+                "2D"
+            ],
+            "tags": [
+                "Fantasy",
+                "Adventure",
+                "Mystery"
+            ],
+            "offers": [
+                {
+                    "id": "1",
+                    "type": "red",
+                    "title": "Special Studio Ghibli Offer - RED Reward",
+                    "content": "Get a free Ghibli poster with every ticket purchased."
+                },
+                {
+                    "id": "2",
+                    "type": "green",
+                    "title": "Anime Fan Discount - GREEN Reward",
+                    "content": "Enjoy a 20% discount on tickets for students. Valid for a limited time."
+                }
+            ],
+            "total_reviews": 150000,
+            "latest_reviews": {
+                "author": "A Adelking",
+                "created": 1672531200,
+                "content": "Hayao Miyazaki’s Spirited Away (Released Date : 12 December 2002 ) is a work of magic that you shouldn’t miss. It is an unforgettable, thrilling and enchanting anime movie. Easily one of the best movies I’ve ever watched and the best movie in Studio Ghibli. Studio Ghibli is from Japan, and there are many movies from it like Howl’s Moving Castle, War Of The Fireflies, Whisper Of The Heart, and My Neighbour Totoro. You will definitely love Spirited Away if you are an anime fan. Even if you hate anime, you need to watch this masterpiece. The genre of Spirited Away is Fantasy, Adventure, and Mystery. The main meaning of the movie is that you should never forget who you are. This movie is for everyone to watch, or anyone who needs a movie to watch. The main character, Chihiro, (Rumi Hiiragi) is a brave, kind, and caring 10 year old girl. Her mother and father take her to an abandoned amusement park. After both her parents are turned into pigs, Chihiro is lost in a spiritual world and she is helped by Haku, (Miyu Irino) who gives her pills that keep her in human form. The animation is amazing with Chihiro’s expressions and emotions. Spirited Away has won awards like Academy Award For Best Animated Features, Critic’s Choice Movie Award for Best Animated Feature, and the Golden Bear Award. All of the music in the movie is really smooth and calm to listen to. You should definitely listen to One Summer’s Day, Always With Me, and A Road To Somewhere. Spirited Away has many lessons to it, like that you should be brave, and the only way to get anywhere in life is to work hard. The characters have different abilities. For example, there is a character called No-Face, and he can gain emotions and physical traits from people. Spirited Away is a wonderful movie and I definitely recommend this movie if you don’t have any movies to watch and if you haven’t watched it yet. I would give Spirited Away 5 stars out of 5! It was catchy, full of suspense, and humorous. Watch the movie, it is truly worth your time, and you will be… Spirited Away. ♥",
+                "avatar": "https://www.hollywoodreporter.com/wp-content/uploads/2013/09/hayao_miyazaki_-_h_-_2013.jpg"
+            },
+            "casts": [
+                {
+                    "name": "Rumi Hiiragi",
+                    "photo": "https://m.media-amazon.com/images/M/MV5BOTE2ZTYxNjgtNGM0MC00ZmUxLTkwOGMtNTY4ZTFjNTg3MWE5XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+                },
+                {
+                    "name": "Miyu Irino",
+                    "photo": "https://via.placeholder.com/214x317?text=Miyu+Irino"
+                },
+                {
+                    "name": "Mari Natsuki",
+                    "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/MJK_08427_Mari_Natsuki_%28Berlinale_2018%29.jpg/220px-MJK_08427_Mari_Natsuki_%28Berlinale_2018%29.jpg"
+                },
+                {
+                    "name": "Ryūnosuke Kamiki",
+                    "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Kamiki_Ryunosuke_from_%22Godzilla_Minus_One%22_at_Red_Carpet_of_the_Tokyo_International_Film_Festival_2023_%2853347030212%29_-_cropped.jpg/220px-Kamiki_Ryunosuke_from_%22Godzilla_Minus_One%22_at_Red_Carpet_of_the_Tokyo_International_Film_Festival_2023_%2853347030212%29_-_cropped.jpg"
+                },
+                {
+                    "name": "Yoomi Tamai",
+                    "photo": "https://cdn.myanimelist.net/images/voiceactors/1/8465.jpg"
+                }
+            ]
+        },
+        {
+            "movie": {
+                "id": "2",
+                "name": "Howl's Moving Castle",
+                "thumb": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a0/Howls-moving-castleposter.jpg/220px-Howls-moving-castleposter.jpg",
+                "trailer": "https://www.youtube.com/watch?v=iwROgK94zcM",
+                "release_date": 1100928000,
+                "rate": 87,
+                "votes": "14.2k votes",
+                "duration": 7140
+            },
+            "tami": [
+                "2D"
+            ],
+            "tags": [
+                "Animation",
+                "Fantasy",
+                "Adventure"
+            ],
+            "offers": [
+                {
+                    "id": "1",
+                    "type": "red",
+                    "title": "Exclusive Ghibli Deal - RED Reward",
+                    "content": "Book your ticket now and receive a free Howl's Moving Castle collectible."
+                },
+                {
+                    "id": "2",
+                    "type": "green",
+                    "title": "Limited Time Discount - GREEN Reward",
+                    "content": "Enjoy a 20% discount on all Howl's Moving Castle screenings. Offer valid until end of month."
+                }
+            ],
+            "total_reviews": 75000,
+            "latest_reviews": {
+                "author": "GhibliLover99",
+                "created": 1672531200,
+                "content": "Howl's Moving Castle is a mesmerizing masterpiece with stunning visuals and a captivating story that reminds us of the magic of transformation and the power of love.",
+                "avatar": "https://cafefcdn.com/zoom/600_315/203337114487263232/2022/3/3/photo1646280815645-1646280816151764748403.jpg"
+            },
+            "casts": [
+                {
+                    "name": "Chieko Baisho",
+                    "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Chieko_Baish%C5%8D_at_the_Tokyo_International_Film_Festival_2019_%2849013476248%29_%28cropped%29.jpg/220px-Chieko_Baish%C5%8D_at_the_Tokyo_International_Film_Festival_2019_%2849013476248%29_%28cropped%29.jpg"
+                },
+                {
+                    "name": "Takuya Kimura",
+                    "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Takuya_Kimura_January_2023.jpg/220px-Takuya_Kimura_January_2023.jpg"
+                },
+                {
+                    "name": "Akihiro Miwa",
+                    "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Akihiro_Miwa_%E7%BE%8E%E8%BC%AA_%E6%98%8E%E5%AE%8F.jpg/220px-Akihiro_Miwa_%E7%BE%8E%E8%BC%AA_%E6%98%8E%E5%AE%8F.jpg"
+                },
+                {
+                    "name": "Kengo Kawanishi",
+                    "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/240211_Kengo_Kawanishi.jpg/220px-240211_Kengo_Kawanishi.jpg"
+                },
+                {
+                    "name": "Miyoko Asada",
+                    "photo": "https://www.tvtime.com/_next/image?url=https%3A%2F%2Fartworks.thetvdb.com%2Fbanners%2Fv4%2Factor%2F7868293%2Fphoto%2F64f59e67a0761.jpg&w=640&q=75"
+                },
+                {
+                    "name": "Kazuko Yoshiyuki",
+                    "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/%E5%90%89%E8%A1%8C%E5%92%8C%E5%AD%90.png/220px-%E5%90%89%E8%A1%8C%E5%92%8C%E5%AD%90.png"
+                }
+            ]
+        },
+        {
+            "movie": {
+                "id": "3",
+                "name": "Gake no Ue no Ponyo",
+                "thumb": "https://upload.wikimedia.org/wikipedia/en/thumb/5/51/Ponyo.png/220px-Ponyo.png",
+                "trailer": "https://www.youtube.com/watch?v=UwYoyX5oa5M",
+                "release_date": 1216425600,
+                "rate": 91,
+                "votes": "11.3k votes",
+                "duration": 6060
+            },
+            "tami": [
+                "2D"
+            ],
+            "tags": [
+                "Animation",
+                "Fantasy",
+                "Family"
+            ],
+            "offers": [
+                {
+                    "id": "1",
+                    "type": "red",
+                    "title": "Exclusive Ponyo Poster - RED Reward",
+                    "content": "Book your tickets now and get a free Ponyo poster."
+                },
+                {
+                    "id": "2",
+                    "type": "green",
+                    "title": "Family Combo Offer - GREEN Reward",
+                    "content": "Enjoy a 20% discount on family tickets for Ponyo screenings."
+                }
+            ],
+            "total_reviews": 45266,
+            "latest_reviews": {
+                "author": "AnimeFanatic",
+                "created": 1658275200,
+                "content": "Gake no Ue no Ponyo is a delightful and imaginative film that enchants both children and adults with its beautiful animation and heartfelt story about the wonders of the ocean and the magic of love.",
+                "avatar": "https://upload.wikimedia.org/wikipedia/en/thumb/5/51/Ponyo.png/220px-Ponyo.png"
+            },
+            "casts": [
+                {
+                    "name": "Tomoko Yamaguchi",
+                    "photo": "https://i.namu.wiki/i/MiFU9DjICPAkP6Yxne4H1uYkOs-MUD0iIeCZg0Bi6I3J439s4Rr3iazFStDVGh2HOA1d6gwC9n429FYK9uhxSQ.webp"
+                },
+                {
+                    "name": "Miyoko Asada",
+                    "photo": "https://www.tvtime.com/_next/image?url=https%3A%2F%2Fartworks.thetvdb.com%2Fbanners%2Fv4%2Factor%2F7868293%2Fphoto%2F64f59e67a0761.jpg&w=640&q=75"
+                },
+                {
+                    "name": "Kazuko Yoshiyuki",
+                    "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/%E5%90%89%E8%A1%8C%E5%92%8C%E5%AD%90.png/220px-%E5%90%89%E8%A1%8C%E5%92%8C%E5%AD%90.png"
+                }
+            ]
+        },
+        {
+            "movie": {
+                "id": "4",
+                "name": "Weathering With You",
+                "thumb": "https://upload.wikimedia.org/wikipedia/en/thumb/6/66/Weathering_with_You_Poster.jpg/220px-Weathering_with_You_Poster.jpg",
+                "trailer": "https://www.youtube.com/watch?v=YAXTn0E-Zgo",
+                "release_date": 1563484800,
+                "rate": 89,
+                "votes": "13.7k votes",
+                "duration": 6720
+            },
+            "tami": [
+                "2D"
+            ],
+            "tags": [
+                "Animation",
+                "Fantasy",
+                "Romance"
+            ],
+            "offers": [
+                {
+                    "id": "1",
+                    "type": "red",
+                    "title": "Exclusive Weathering With You Offer - RED Reward",
+                    "content": "Book your tickets now and receive an exclusive Weathering With You poster."
+                },
+                {
+                    "id": "2",
+                    "type": "green",
+                    "title": "Early Bird Special - GREEN Reward",
+                    "content": "Enjoy a 20% discount on advanced bookings for Weathering With You screenings."
+                }
+            ],
+            "total_reviews": 92000,
+            "latest_reviews": {
+                "author": "ShinkaiFan89",
+                "created": 1609459200,
+                "content": "Weathering With You is a visually stunning and emotionally resonant masterpiece that captures the beauty and turbulence of modern life. A must-watch for anime lovers.",
+                "avatar": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/%E5%90%89%E8%A1%8C%E5%92%8C%E5%AD%90.png/220px-%E5%90%89%E8%A1%8C%E5%92%8C%E5%AD%90.png"
+            },
+            "casts": [
+                {
+                    "name": "Kotaro Daigo",
+                    "photo": "https://resizing.flixster.com/adHlsY6vDgRAGjMJKBAbG6xZoW0=/fit-in/352x330/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/1275953_v9_aa.jpg"
+                },
+                {
+                    "name": "Hana Hashimoto",
+                    "photo": "https://resizing.flixster.com/S4WwILdZVN_-BDOUI2JQP79D6no=/218x280/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/667180_v9_ba.jpg"
+                },
+                {
+                    "name": "Aoi Yūki",
+                    "photo": "https://static.wikia.nocookie.net/kaminomi/images/e/ec/Aoi_Yuki.jpg/revision/latest?cb=20101104200123"
+                }
+            ]
+        },
+        {
+            "movie": {
+                "id": "5",
+                "name": "Lật mặt 7: Một điều ước",
+                "thumb": "https://upload.wikimedia.org/wikipedia/vi/thumb/d/d4/%C3%81p_ph%C3%ADch_ch%C3%ADnh_th%E1%BB%A9c_L%E1%BA%ADt_m%E1%BA%B7t_7.jpg/220px-%C3%81p_ph%C3%ADch_ch%C3%ADnh_th%E1%BB%A9c_L%E1%BA%ADt_m%E1%BA%B7t_7.jpg",
+                "trailer": "https://www.youtube.com/watch?v=rs0q0dG2dC8",
+                "release_date": 1659312000,
+                "rate": 82,
+                "votes": "8.7k votes",
+                "duration": 6900
+            },
+            "tami": [
+                "2D"
+            ],
+            "tags": [
+                "Thriller",
+                "Horror",
+                "Mystery"
+            ],
+            "offers": [
+                {
+                    "id": "1",
+                    "type": "red",
+                    "title": "Exclusive Premiere Offer - RED Reward",
+                    "content": "Book your tickets now and receive exclusive Lật mặt 7 merchandise."
+                },
+                {
+                    "id": "2",
+                    "type": "green",
+                    "title": "Early Bird Discount - GREEN Reward",
+                    "content": "Enjoy a 20% discount on early bookings for Lật mặt 7 screenings."
+                }
+            ],
+            "total_reviews": 36000,
+            "latest_reviews": {
+                "author": "FilmFanVN",
+                "created": 1661990400,
+                "content": "Lật mặt 7: Một điều ước mang đến trải nghiệm điện ảnh độc đáo với cốt truyện lôi cuốn và những pha hành động bất ngờ. Bộ phim xứng đáng với sự kỳ vọng của khán giả.",
+                "avatar": "https://image.plo.vn/w1000/Uploaded/2025/ovhpaov/2023_05_20/z4355505483031-cad56e2ac4235d5e7450e0516456a117-8797.jpg.webp"
+            },
+            "casts": [
+                {
+                    "name": "Trấn Thành",
+                    "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Tr%E1%BA%A5n_Th%C3%A0nh_191226.png/250px-Tr%E1%BA%A5n_Th%C3%A0nh_191226.png"
+                },
+                {
+                    "name": "Hà Anh",
+                    "photo": "https://upload.wikimedia.org/wikipedia/commons/6/64/Nguy%E1%BB%85n_V%C5%A9_H%C3%A0_Anh_3_%28cropped%29.jpg"
+                },
+                {
+                    "name": "Minh Hằng",
+                    "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Minh_Hang_2017.png/250px-Minh_Hang_2017.png"
+                },
+                {
+                    "name": "Ngô Kiến Huy",
+                    "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Ng%C3%B4_Ki%E1%BA%BFn_Huy_hosting_B%E1%BB%99_3_Si%C3%AAu_%C4%90%E1%BA%B3ng_SS2_EP13_%28cropped%29.jpg/250px-Ng%C3%B4_Ki%E1%BA%BFn_Huy_hosting_B%E1%BB%99_3_Si%C3%AAu_%C4%90%E1%BA%B3ng_SS2_EP13_%28cropped%29.jpg"
+                }
+            ]
+        },
+        {
+            "movie": {
+                "id": "6",
+                "name": "No Time to Die",
+                "thumb": "https://www.mensjournal.com/.image/c_limit%2Ccs_srgb%2Cq_auto:good%2Cw_700/MTk2MTM1Nzc2MTQwNDY5NzY1/bond-poster-main-1.webp",
+                "trailer": "https://www.youtube.com/watch?v=N_gD9-Oa0fg",
+                "release_date": 1592672400,
+                "rate": 86,
+                "votes": "12.8k votes",
+                "duration": 8520
+            },
+            "tami": [
+                "3D",
+                "2D"
+            ],
+            "tags": [
+                "Action",
+                "Adventure",
+                "Thriller"
+            ],
+            "offers": [
+                {
+                    "id": "1",
+                    "type": "red",
+                    "title": "Monday Night Special! Free Popcorn - RED Reward",
+                    "content": "Reserve your seats now and tap on the reward box to claim your free popcorn."
+                },
+                {
+                    "id": "2",
+                    "type": "green",
+                    "title": "Birthday Surprise! Free Cola - GREEN Reward",
+                    "content": "Enjoy a 50% discount (up to VND 30,000) on two GrabBike or GrabCar rides. Offer valid for new users. Expires on 22/04/2025."
+                }
+            ],
+            "total_reviews": 82266,
+            "latest_reviews": {
+                "author": "ChiSox3514",
+                "created": 1592872400,
+                "content": "As a lifelong James Bond enthusiast who has been extremely disappointed with the franchise's latest efforts (with the exception of Casino Royale), I was extremely pleased with this film. It strayed away from the storyline of the previous two films and I couldn't have been happier after the mediocrity of Quantum of Solace. This film has all the constituents from the Bond films that have preceded it. Big explosions, ridiculous stunts that not a single person in the history of humanity can survive, and let's not forget to mention the beautiful women that would make both genders stop and stare. So what does Skyfall have that the other Bond films don't? For the first time, we get a glimpse into our mysterious hero's dark past. Where he came from and what made him the person he is today.",
+                "avatar": "https://avatarfiles.alphacoders.com/374/thumb-1920-374256.jpeg"
+            },
+            "casts": [
+                {
+                    "name": "Ana de Armas",
+                    "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Ana_de_Armas_at_the_2024_Toronto_International_Film_Festival_05_%28cropped%29.jpg/220px-Ana_de_Armas_at_the_2024_Toronto_International_Film_Festival_05_%28cropped%29.jpg"
+                },
+                {
+                    "name": "Rami Malek",
+                    "photo": "https://m.media-amazon.com/images/M/MV5BODA3OTM4ODU0MV5BMl5BanBnXkFtZTgwNjQ5Njg3NjM@._V1_UX214_CR0,0,214,317_AL_.jpg"
+                },
+                {
+                    "name": "Daniel Craig",
+                    "photo": "https://m.media-amazon.com/images/M/MV5BMjEzMjk4NDU4MF5BMl5BanBnXkFtZTcwMDMyNjQzMg@@._V1_UX214_CR0,0,214,317_AL_.jpg"
+                },
+                {
+                    "name": "Ralph Fiennes",
+                    "photo": "https://m.media-amazon.com/images/M/MV5BMzc5MjE1NDgyN15BMl5BanBnXkFtZTcwNzg2ODgwNA@@._V1_UY317_CR14,0,214,317_AL_.jpg"
+                },
+                {
+                    "name": "Jack Reynor",
+                    "photo": "https://m.media-amazon.com/images/M/MV5BMjExOTU1NTM0MF5BMl5BanBnXkFtZTcwNDQ2ODE2OQ@@._V1_UY317_CR39,0,214,317_AL_.jpg"
+                },
+                {
+                    "name": "Léa Seydoux",
+                    "photo": "https://m.media-amazon.com/images/M/MV5BMjM3MTczNzY1MF5BMl5BanBnXkFtZTgwNjgwODgzNDE@._V1_UY317_CR6,0,214,317_AL_.jpg"
+                }
+            ]
+        },
+        {
+            "movie": {
+                "id": "1",
+                "name": "Dawn of the Planet of the Apes",
+                "thumb": "https://upload.wikimedia.org/wikipedia/en/thumb/7/77/Dawn_of_the_Planet_of_the_Apes.jpg/220px-Dawn_of_the_Planet_of_the_Apes.jpg",
+                "trailer": "https://www.youtube.com/watch?v=DpSaTrW4leg",
+                "release_date": 1395507600,
+                "rate": 89,
+                "votes": "77.9k votes",
+                "duration": 7290
+            },
+            "tami": [
+                "3D",
+                "2D"
+            ],
+            "tags": [
+                "Action",
+                "Adventure",
+                "Drama "
+            ],
+            "offers": [
+                {
+                    "id": "1",
+                    "type": "red",
+                    "title": "Monday Night Special! Free Popcorn - RED Reward",
+                    "content": "Reserve your seats now and tap on the reward box to claim your free popcorn."
+                },
+                {
+                    "id": "2",
+                    "type": "green",
+                    "title": "Birthday Surprise! Free Cola - GREEN Reward",
+                    "content": "Enjoy a 50% discount (up to VND 30,000) on two GrabBike or GrabCar rides. Offer valid for new users. Expires on 22/04/2025."
+                }
+            ],
+            "total_reviews": 86176,
+            "latest_reviews": {
+                "author": "bob the moo",
+                "created": 1395577600,
+                "content": "I had enjoyed the first film in what I guess is the modern version of the PotA franchise, so I was quite looking forward to this second film. The plot jumps quite some time ahead, to find mankind surviving in small bands following the outbreak of a virus around a decade ago. Meanwhile Caesar has established a community deep in the woods, founded off the survivors of the battle on the Golden Gate bridge. When a group of men ventures into the woods looking for an old dam in the hope of getting power to their community, it tests trust and loyalty within both camps.",
+                "avatar": "https://m.media-amazon.com/images/M/MV5BMjA1OTYzMjQ0OF5BMl5BanBnXkFtZTgwODUzMTgwNjE@._V1_SY100_SX100_.jpg"
+            },
+            "casts": [
+                {
+                    "name": "Andy Serkis",
+                    "photo": "https://m.media-amazon.com/images/M/MV5BYTgwYmM0ZjgtMWRmZC00YTc1LWIwYWEtYTFjMTZiMDNjNWRkXkEyXkFqcGdeQXVyNjcwMjczMzE@._V1_UX214_CR0,0,214,317_AL_.jpg"
+                },
+                {
+                    "name": "Jason Clarke",
+                    "photo": "https://m.media-amazon.com/images/M/MV5BNzU5ODU0MzY1MV5BMl5BanBnXkFtZTcwMTY2MDE4OA@@._V1_UX214_CR0,0,214,317_AL_.jpg"
+                },
+                {
+                    "name": "Gary Oldman",
+                    "photo": "https://m.media-amazon.com/images/M/MV5BMTc3NTM4MzQ5MV5BMl5BanBnXkFtZTcwOTE4MDczNw@@._V1_UY317_CR0,0,214,317_AL_.jpg"
+                },
+                {
+                    "name": "Keri Russell",
+                    "photo": "https://m.media-amazon.com/images/M/MV5BMTA4MDM4MzUzNzZeQTJeQWpwZ15BbWU3MDM0NjY4NDM@._V1_UX214_CR0,0,214,317_AL_.jpg"
+                },
+                {
+                    "name": "Toby Kebbell",
+                    "photo": "https://m.media-amazon.com/images/M/MV5BM2EyODM5NDctMWU3Zi00NDc2LWFhYzQtNmQ2ZDJiZTczMDgwXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_UY317_CR19,0,214,317_AL_.jpg"
+                }
+            ]
+        },
+        {
+            "movie": {
+                "id": "14",
+                "name": "Avengers: Infinity War",
+                "thumb": "https://upload.wikimedia.org/wikipedia/en/4/4d/Avengers_Infinity_War_poster.jpg",
+                "trailer": "https://www.youtube.com/watch?v=6ZfuNTqbHE8",
+                "release_date": 1526180400,
+                "rate": 97,
+                "votes": "83.5k votes",
+                "duration": 8720
+            },
+            "tami": [
+                "2D"
+            ],
+            "tags": [
+                "Action",
+                "Adventure",
+                "Sci-Fi "
+            ],
+            "offers": [
+                {
+                    "id": "1",
+                    "type": "red",
+                    "title": "Monday Night Special! Free Popcorn - RED Reward",
+                    "content": "Reserve your seats now and tap on the reward box to claim your free popcorn."
+                },
+                {
+                    "id": "2",
+                    "type": "green",
+                    "title": "Birthday Surprise! Free Cola - GREEN Reward",
+                    "content": "Enjoy a 50% discount (up to VND 30,000) on two GrabBike or GrabCar rides. Offer valid for new users. Expires on 22/04/2025."
+                }
+            ],
+            "total_reviews": 832901,
+            "latest_reviews": {
+                "author": "Jesper2801",
+                "created": 1526280400,
+                "content": "I consider myself a big comic book marvel fan. My favorite films from the franchise so far, are Cap. American: Winter Soldier and Thor: Ragnarok. As this movie was directed by the same guys as Winter Soldier and Civil War, I went into this movie with sky-high expectations.\n\nI am gonna keep this brief: Avengers: Infinity War blew me away! If I should mention just one thing that really amazed me was the character of Thanos. He is so well developed and makes for a super interesting and complex villain. As an audience, we are actually capable of sympathizing with a guy, who wants to kill off half of the universe. It's not about power or dominance. It's about preserving life in a Universe with finite resources - a goal with leads him (and the avengers) into several interesting moral dilemmas.\n\nI agree with the other reviews here. This movie is such a beautiful calamity of 10 years of the best superhero entertainment there is. Thinking about it, I can't really grasp how the director pulled this off. So many well developed characters from different story lines are working together in a true cinematic symphony.\n\nI give this movie my highest recommendations. It's a must-see for anyone with just a remote interest in the franchise.",
+                "avatar": "https://upload.wikimedia.org/wikipedia/en/4/4d/Avengers_Infinity_War_poster.jpg"
+            },
+            "casts": [
+                {
+                    "name": "Robert Downey Jr.",
+                    "photo": "https://m.media-amazon.com/images/M/MV5BNzg1MTUyNDYxOF5BMl5BanBnXkFtZTgwNTQ4MTE2MjE@._V1_UX214_CR0,0,214,317_AL_.jpg"
+                },
+                {
+                    "name": "Chris Hemsworth",
+                    "photo": "https://m.media-amazon.com/images/M/MV5BOTU2MTI0NTIyNV5BMl5BanBnXkFtZTcwMTA4Nzc3OA@@._V1_UX214_CR0,0,214,317_AL_.jpg"
+                },
+                {
+                    "name": "Mark Ruffalo",
+                    "photo": "https://m.media-amazon.com/images/M/MV5BNDQyNzMzZTMtYjlkNS00YzFhLWFhMTctY2M4YmQ1NmRhODBkXkEyXkFqcGdeQXVyNjcyNzgyOTE@._V1_UY317_CR20,0,214,317_AL_.jpg"
+                },
+                {
+                    "name": "Chris Evans",
+                    "photo": "https://m.media-amazon.com/images/M/MV5BMTU2NTg1OTQzMF5BMl5BanBnXkFtZTcwNjIyMjkyMg@@._V1_UY317_CR6,0,214,317_AL_.jpg"
+                },
+                {
+                    "name": "Scarlett Johansson",
+                    "photo": "https://m.media-amazon.com/images/M/MV5BMTM3OTUwMDYwNl5BMl5BanBnXkFtZTcwNTUyNzc3Nw@@._V1_UY317_CR23,0,214,317_AL_.jpg"
+                },
+                {
+                    "name": "Don Cheadle",
+                    "photo": "https://m.media-amazon.com/images/M/MV5BNDMxNDM3MzY5N15BMl5BanBnXkFtZTcwMjkzOTY4MQ@@._V1_UY317_CR17,0,214,317_AL_.jpg"
+                },
+                {
+                    "name": "Benedict Cumberbatch",
+                    "photo": "https://m.media-amazon.com/images/M/MV5BMjE0MDkzMDQwOF5BMl5BanBnXkFtZTgwOTE1Mjg1MzE@._V1_UY317_CR2,0,214,317_AL_.jpg"
+                },
+                {
+                    "name": "Tom Holland",
+                    "photo": "https://m.media-amazon.com/images/M/MV5BNTAzMzA3NjQwOF5BMl5BanBnXkFtZTgwMDUzODQ5MTI@._V1_UY317_CR23,0,214,317_AL_.jpg"
+                },
+                {
+                    "name": "Chadwick Boseman",
+                    "photo": "https://m.media-amazon.com/images/M/MV5BMTk2OTY5MzcwMV5BMl5BanBnXkFtZTgwODM4MDI5MjI@._V1_UX214_CR0,0,214,317_AL_.jpg"
+                },
+                {
+                    "name": "Zoe Saldana",
+                    "photo": "https://m.media-amazon.com/images/M/MV5BMTM2MjIwOTc0Nl5BMl5BanBnXkFtZTcwNzQ5ODM1Mw@@._V1_UX214_CR0,0,214,317_AL_.jpg"
+                },
+                {
+                    "name": "Karen Gillan",
+                    "photo": "https://m.media-amazon.com/images/M/MV5BMTQwMDQ0NDk1OV5BMl5BanBnXkFtZTcwNDcxOTExNg@@._V1_UY317_CR2,0,214,317_AL_.jpg"
+                },
+                {
+                    "name": "Tom Hiddleston",
+                    "photo": "https://m.media-amazon.com/images/M/MV5BNWYwODAyZjAtOTQ1My00MDY2LTg0NDQtZGFiMDRiYzY4ZmM2XkEyXkFqcGdeQXVyNjg2NjQwMDQ@._V1_UY317_CR9,0,214,317_AL_.jpg"
+                },
+                {
+                    "name": "Paul Bettany",
+                    "photo": "https://m.media-amazon.com/images/M/MV5BNjUzMDIzNjkxMl5BMl5BanBnXkFtZTgwNjgyNzA0MjI@._V1_UY317_CR131,0,214,317_AL_.jpg"
+                },
+                {
+                    "name": "Elizabeth Olsen",
+                    "photo": "https://m.media-amazon.com/images/M/MV5BMjEzMjA0ODk1OF5BMl5BanBnXkFtZTcwMTA4ODM3OQ@@._V1_UY317_CR6,0,214,317_AL_.jpg"
+                },
+                {
+                    "name": "Anthony Mackie",
+                    "photo": "https://m.media-amazon.com/images/M/MV5BMTk3NTM1MjE2M15BMl5BanBnXkFtZTcwNzc5OTI2Mg@@._V1_UY317_CR17,0,214,317_AL_.jpg"
+                }
+            ]
+        },
+        {
+            "movie": {
+                "id": "17",
+                "name": "Kong: Skull Island",
+                "thumb": "https://upload.wikimedia.org/wikipedia/en/3/34/Kong_Skull_Island_poster.jpg",
+                "trailer": "https://www.youtube.com/watch?v=wgixOGSoBMo",
+                "release_date": 1502557200,
+                "rate": 92,
+                "votes": "128.3k votes",
+                "duration": 8890
+            },
+            "tami": [
+                "3D-MAX",
+                "2D"
+            ],
+            "tags": [
+                "Action",
+                "Adventure",
+                "Fantasy"
+            ],
+            "offers": [
+                {
+                    "id": "1",
+                    "type": "red",
+                    "title": "Monday Night Special! Free Popcorn - RED Reward",
+                    "content": "Reserve your seats now and tap on the reward box to claim your free popcorn."
+                },
+                {
+                    "id": "2",
+                    "type": "green",
+                    "title": "Birthday Surprise! Free Cola - GREEN Reward",
+                    "content": "Enjoy a 50% discount (up to VND 30,000) on two GrabBike or GrabCar rides. Offer valid for new users. Expires on 22/04/2025."
+                }
+            ],
+            "total_reviews": 129315,
+            "latest_reviews": {
+                "author": "andrew-marks59",
+                "created": 1502587200,
+                "content": "Some people go to the movies to be wowed by the superb acting, heart wrenching and well written story, and overall solid production... THIS has good effects? The acting in this film isn't bad, but it definitely won't win any awards for it.\n\nThe story has characters Bill Randa (John Goodman) and Houston Brooks (Corey Hawkins) piggybacking on an expedition to an uncharted island to test their \"hollow earth\" theory. Tom Hiddleston plays a tracker, Brie Larson plays a photographer, and John C. Reilly plays a surprisingly funny WW2 vet marooned on Skull Island.",
+                "avatar": "https://m.media-amazon.com/images/M/MV5BNzc5Njc1ODczMV5BMl5BanBnXkFtZTgwMjYwNTk5MDI@._V1_SY100_SX100_.jpg"
+            },
+            "casts": [
+                {
+                    "name": "Tom Hiddleston",
+                    "photo": "https://m.media-amazon.com/images/M/MV5BNWYwODAyZjAtOTQ1My00MDY2LTg0NDQtZGFiMDRiYzY4ZmM2XkEyXkFqcGdeQXVyNjg2NjQwMDQ@._V1_UY317_CR9,0,214,317_AL_.jpg"
+                },
+                {
+                    "name": "Samuel L. Jackson",
+                    "photo": "https://m.media-amazon.com/images/M/MV5BMTQ1NTQwMTYxNl5BMl5BanBnXkFtZTYwMjA1MzY1._V1_UX214_CR0,0,214,317_AL_.jpg"
+                },
+                {
+                    "name": "Brie Larson",
+                    "photo": "https://m.media-amazon.com/images/M/MV5BMjExODkxODU3NF5BMl5BanBnXkFtZTgwNTM0MTk3NjE@._V1_UY317_CR7,0,214,317_AL_.jpg"
+                },
+                {
+                    "name": "John C. Reilly",
+                    "photo": "https://m.media-amazon.com/images/M/MV5BMTc4MDEzMDkzOF5BMl5BanBnXkFtZTYwNzQzNzcy._V1_UY317_CR34,0,214,317_AL_.jpg"
+                },
+                {
+                    "name": "John Goodman",
+                    "photo": "https://m.media-amazon.com/images/M/MV5BOTk1MzAzMDUxMF5BMl5BanBnXkFtZTgwODgyMTQxNjM@._V1_UY317_CR12,0,214,317_AL_.jpg"
+                }
+            ]
+        },
+        {
+            "movie": {
+                "id": "9",
+                "name": "BLOODSHOT",
+                "thumb": "https://upload.wikimedia.org/wikipedia/en/4/45/Bloodshot_-_official_film_poster.jpeg",
+                "trailer": "https://www.youtube.com/watch?v=vOUVVDWdXbo",
+                "release_date": 1590030000,
+                "rate": 87,
+                "votes": "2.3k votes",
+                "duration": 5240
+            },
+            "tami": [
+                "2D"
+            ],
+            "tags": [
+                "Action",
+                "Drama",
+                "Sci-Fi"
+            ],
+            "offers": [
+                {
+                    "id": "1",
+                    "type": "red",
+                    "title": "Monday Night Special! Free Popcorn - RED Reward",
+                    "content": "Reserve your seats now and tap on the reward box to claim your free popcorn."
+                },
+                {
+                    "id": "2",
+                    "type": "green",
+                    "title": "Birthday Surprise! Free Cola - GREEN Reward",
+                    "content": "Enjoy a 50% discount (up to VND 30,000) on two GrabBike or GrabCar rides. Offer valid for new users. Expires on 22/04/2025."
+                }
+            ],
+            "total_reviews": 8403,
+            "latest_reviews": {
+                "author": "Eliza González Was A Joy",
+                "created": 1590040000,
+                "content": "I didn't like it, but I wouldn't say I hated it. It is a very silly film that is seemingly aware (At least I hope it is) of how silly it is. It's pretty tame violence and blood wise, it's pretty much all in the trailers which is disappointing.",
+                "avatar": "https://i.ytimg.com/vi_webp/YIhkib05VCo/maxresdefault.webp"
+            },
+            "casts": [
+                {
+                    "name": "Vin Diesel",
+                    "photo": "https://m.media-amazon.com/images/M/MV5BMjExNzA4MDYxN15BMl5BanBnXkFtZTcwOTI1MDAxOQ@@._V1_UY317_CR7,0,214,317_AL_.jpg"
+                },
+                {
+                    "name": "Eiza González",
+                    "photo": "https://m.media-amazon.com/images/M/MV5BYjI0MjU0YjgtNzRkZC00ZGNlLWEyMzMtOGM2MDEzZDFlYmRjXkEyXkFqcGdeQXVyNjA1OTA1Njk@._V1_UY317_CR20,0,214,317_AL_.jpg"
+                },
+                {
+                    "name": "Sam Heughan",
+                    "photo": "https://m.media-amazon.com/images/M/MV5BMTUwNzAyMzA2MF5BMl5BanBnXkFtZTgwNzA0MjQ1ODE@._V1_UX214_CR0,0,214,317_AL_.jpg"
+                },
+                {
+                    "name": "Toby Kebbell",
+                    "photo": "https://m.media-amazon.com/images/M/MV5BM2EyODM5NDctMWU3Zi00NDc2LWFhYzQtNmQ2ZDJiZTczMDgwXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_UY317_CR19,0,214,317_AL_.jpg"
+                },
+                {
+                    "name": "Talulah Riley",
+                    "photo": "https://m.media-amazon.com/images/M/MV5BMjE0MzUwNTUxM15BMl5BanBnXkFtZTcwNzU1OTY5Ng@@._V1_UY317_CR10,0,214,317_AL_.jpg"
+                },
+                {
+                    "name": "Lamorne Morris",
+                    "photo": "https://m.media-amazon.com/images/M/MV5BNmJhMWJkNTgtODIzMC00ZmIzLTliMjUtZGZmMmM1MTU5OTZhXkEyXkFqcGdeQXVyMjY5MDMxMzQ@._V1_UY317_CR51,0,214,317_AL_.jpg"
+                },
+                {
+                    "name": "Guy Pearce",
+                    "photo": "https://m.media-amazon.com/images/M/MV5BMTgyNzc2NzY3Nl5BMl5BanBnXkFtZTgwNTMzMzAwMjE@._V1_UX214_CR0,0,214,317_AL_.jpg"
+                },
+                {
+                    "name": "Jóhannes Haukur Jóhannesson",
+                    "photo": "https://m.media-amazon.com/images/M/MV5BMDExOTNkNDAtZDExYi00MzI1LWJiMzQtZjljZTQwNjUxNGI1XkEyXkFqcGdeQXVyMTcxMTg3NDE@._V1_UY317_CR12,0,214,317_AL_.jpg"
+                },
+                {
+                    "name": "Alex Hernandez",
+                    "photo": "https://m.media-amazon.com/images/M/MV5BNWQzYzcxYmUtMzQxZC00ZmQ3LTgxZTYtNDlmZjNhZDA2N2Y1XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_UY317_CR0,0,214,317_AL_.jpg"
+                },
+                {
+                    "name": "Siddharth Dhananjay",
+                    "photo": "https://m.media-amazon.com/images/M/MV5BNTAzMDhiMDctZGY1MC00OTBhLWIxYTMtZWZlMGM3OGI1ZjMyXkEyXkFqcGdeQXVyMzgyODc0MTQ@._V1_UY317_CR7,0,214,317_AL_.jpg"
+                },
+                {
+                    "name": "Tamer Burjaq",
+                    "photo": "https://m.media-amazon.com/images/M/MV5BOTIyZmE4YzgtMmJlOC00NDFkLTg2M2UtZGVkNWEyNjllYjM0XkEyXkFqcGdeQXVyNjUxMjc1OTM@._V1_UY317_CR115,0,214,317_AL_.jpg"
+                },
+                {
+                    "name": "Clyde Berning",
+                    "photo": "https://m.media-amazon.com/images/M/MV5BMTNjMzU0MTctNGE1My00NmI0LTk5YmUtMTZmZTczY2JkMDc5XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_UX214_CR0,0,214,317_AL_.jpg"
+                }
+            ]
+        }
+    ],
+    "coming_soon": [
+        {
+            "movie": {
+                "id": "1",
+                "name": "Justice League",
+                "thumb": "https://upload.wikimedia.org/wikipedia/en/6/6b/Justice_League_%28film%29_poster.jpg",
+                "trailer": "https://www.youtube.com/watch?v=3cxixDgHUYw",
+                "release_date": 1526180400,
+                "rate": 72,
+                "votes": "3.1k votes",
+                "duration": 6120
+            },
+            "tami": [
+                "2D"
+            ],
+            "tags": [
+                "Action",
+                "Adventure",
+                "Fantasy"
+            ],
+            "offers": [
+                {
+                    "id": "1",
+                    "type": "red",
+                    "title": "Monday Night Special! Free Popcorn - RED Reward",
+                    "content": "Reserve your seats now and tap on the reward box to claim your free popcorn."
+                },
+                {
+                    "id": "2",
+                    "type": "green",
+                    "title": "Birthday Surprise! Free Cola - GREEN Reward",
+                    "content": "Enjoy a 50% discount (up to VND 30,000) on two GrabBike or GrabCar rides. Offer valid for new users. Expires on 22/04/2025."
+                }
+            ],
+            "total_reviews": 7241,
+            "latest_reviews": {
+                "author": "TheMovieDiorama",
+                "created": 1526181400,
+                "content": "Here we are. The Justice League. DC's greatest superheroes come together to save the world...and what is the first scene you ask? Henry Cavill's CGI'd shaved face. Ohhh dear...yup...we're in for quite a ride",
+                "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1aJdVcgoNh91dVbNJz-hxWN-hpkieCBkqDg&s"
+            },
+            "casts": [
+                {
+                    "name": "Ben Affleck",
+                    "photo": "https://m.media-amazon.com/images/M/MV5BMTI4MzIxMTk0Nl5BMl5BanBnXkFtZTcwOTU5NjA0Mg@@._V1_UX214_CR0,0,214,317_AL_.jpg"
+                },
+                {
+                    "name": "Henry Cavill",
+                    "photo": "https://m.media-amazon.com/images/M/MV5BODI0MTYzNTIxNl5BMl5BanBnXkFtZTcwNjg2Nzc0NA@@._V1_UY317_CR26,0,214,317_AL_.jpg"
+                },
+                {
+                    "name": "Amy Adams",
+                    "photo": "https://m.media-amazon.com/images/M/MV5BMTg2NTk2MTgxMV5BMl5BanBnXkFtZTgwNjcxMjAzMTI@._V1_UX214_CR0,0,214,317_AL_.jpg"
+                },
+                {
+                    "name": "Gal Gadot",
+                    "photo": "https://m.media-amazon.com/images/M/MV5BMjUzZTJmZDItODRjYS00ZGRhLTg2NWQtOGE0YjJhNWVlMjNjXkEyXkFqcGdeQXVyMTg4NDI0NDM@._V1_UY317_CR51,0,214,317_AL_.jpg"
+                }
+            ]
+        },
+        {
+            "movie": {
+                "id": "2",
+                "name": "Spider-Man: Far from Home",
+                "thumb": "https://upload.wikimedia.org/wikipedia/en/b/bd/Spider-Man_Far_From_Home_poster.jpg",
+                "trailer": "https://www.youtube.com/watch?v=Nt9L1jCKGnE",
+                "release_date": 1573837200,
+                "rate": 86,
+                "votes": "24.3k votes",
+                "duration": 5180
+            },
+            "tami": [
+                "2D"
+            ],
+            "tags": [
+                "Action",
+                "Adventure",
+                "Sci-Fi"
+            ],
+            "offers": [
+                {
+                    "id": "1",
+                    "type": "red",
+                    "title": "Monday Night Special! Free Popcorn - RED Reward",
+                    "content": "Reserve your seats now and tap on the reward box to claim your free popcorn."
+                },
+                {
+                    "id": "2",
+                    "type": "green",
+                    "title": "Birthday Surprise! Free Cola - GREEN Reward",
+                    "content": "Enjoy a 50% discount (up to VND 30,000) on two GrabBike or GrabCar rides. Offer valid for new users. Expires on 22/04/2025."
+                }
+            ],
+            "total_reviews": 13249,
+            "latest_reviews": {
+                "author": "urseibogdan",
+                "created": 1526181400,
+                "content": "Tom Holland plays great! An action movie with funny moments that keeps you in suspense!",
+                "avatar": "https://m.media-amazon.com/images/M/MV5BMTQ4Mzg3ODAwMV5BMl5BanBnXkFtZTgwNDM0MTA3MDI@._V1_SY100_SX100_.jpg"
+            },
+            "casts": [
+                {
+                    "name": "Tom Holland",
+                    "photo": "https://m.media-amazon.com/images/M/MV5BNTAzMzA3NjQwOF5BMl5BanBnXkFtZTgwMDUzODQ5MTI@._V1_UY317_CR23,0,214,317_AL_.jpg"
+                },
+                {
+                    "name": "Samuel L. Jackson",
+                    "photo": "https://m.media-amazon.com/images/M/MV5BMTQ1NTQwMTYxNl5BMl5BanBnXkFtZTYwMjA1MzY1._V1_UX214_CR0,0,214,317_AL_.jpg"
+                },
+                {
+                    "name": "Jake Gyllenhaal",
+                    "photo": "https://m.media-amazon.com/images/M/MV5BNjA0MTU2NDY3MF5BMl5BanBnXkFtZTgwNDU4ODkzMzE@._V1_UX214_CR0,0,214,317_AL_.jpg"
+                },
+                {
+                    "name": "Marisa Tomei",
+                    "photo": "https://m.media-amazon.com/images/M/MV5BMTUwMjA3OTc3N15BMl5BanBnXkFtZTcwNTA1MzY1Mw@@._V1_UY317_CR12,0,214,317_AL_.jpg"
+                },
+                {
+                    "name": "Jon Favreau",
+                    "photo": "https://m.media-amazon.com/images/M/MV5BNjcwNzg4MjktNDNlMC00M2U1LWJmMjgtZTVkMmI4MDI2MTVmXkEyXkFqcGdeQXVyMjI4MDI0NTM@._V1_UY317_CR12,0,214,317_AL_.jpg"
+                }
+            ]
+        },
+        {
+            "movie": {
+                "id": "3",
+                "name": "Thor: Ragnarok",
+                "thumb": "https://upload.wikimedia.org/wikipedia/en/7/7d/Thor_Ragnarok_poster.jpg",
+                "trailer": "https://www.youtube.com/watch?v=ue80QwXMRHg",
+                "release_date": 1573837200,
+                "rate": 98,
+                "votes": "128.5k votes",
+                "duration": 7260
+            },
+            "tami": [
+                "3D-MAX",
+                "2D"
+            ],
+            "tags": [
+                "Action",
+                "Adventure",
+                "Comedy"
+            ],
+            "offers": [
+                {
+                    "id": "1",
+                    "type": "red",
+                    "title": "Monday Night Special! Free Popcorn - RED Reward",
+                    "content": "Reserve your seats now and tap on the reward box to claim your free popcorn."
+                },
+                {
+                    "id": "2",
+                    "type": "green",
+                    "title": "Birthday Surprise! Free Cola - GREEN Reward",
+                    "content": "Enjoy a 50% discount (up to VND 30,000) on two GrabBike or GrabCar rides. Offer valid for new users. Expires on 22/04/2025."
+                }
+            ],
+            "total_reviews": 481978,
+            "latest_reviews": {
+                "author": "vdmakwana",
+                "created": 1526280400,
+                "content": "I'm not a hater of comic book-based movies, and it is difficult, considering 2/5 of the movies that appear in movie theaters are based on comic book, if you want to see a movie with action and effects, in the end you always end up with one or another of this type of movie. Blame Hollywood and the mentality of wanting to get the milk from the cow in greater quantity in the shortest possible time.",
+                "avatar": "https://upload.wikimedia.org/wikipedia/en/7/7d/Thor_Ragnarok_poster.jpg"
+            },
+            "casts": [
+                {
+                    "name": "Chris Hemsworth",
+                    "photo": "https://m.media-amazon.com/images/M/MV5BOTU2MTI0NTIyNV5BMl5BanBnXkFtZTcwMTA4Nzc3OA@@._V1_UX214_CR0,0,214,317_AL_.jpg"
+                },
+                {
+                    "name": "Tom Hiddleston",
+                    "photo": "https://m.media-amazon.com/images/M/MV5BNWYwODAyZjAtOTQ1My00MDY2LTg0NDQtZGFiMDRiYzY4ZmM2XkEyXkFqcGdeQXVyNjg2NjQwMDQ@._V1_UY317_CR9,0,214,317_AL_.jpg"
+                },
+                {
+                    "name": "Cate Blanchett",
+                    "photo": "https://m.media-amazon.com/images/M/MV5BMTc1MDI0MDg1NV5BMl5BanBnXkFtZTgwMDM3OTAzMTE@._V1_UY317_CR3,0,214,317_AL_.jpg"
+                },
+                {
+                    "name": "Idris Elba",
+                    "photo": "https://m.media-amazon.com/images/M/MV5BNzEzMTI2NjEyNF5BMl5BanBnXkFtZTcwNTA0OTE4OA@@._V1_UX214_CR0,0,214,317_AL_.jpg"
+                },
+                {
+                    "name": "Jeff Goldblum",
+                    "photo": "https://m.media-amazon.com/images/M/MV5BY2ViNDIwNmUtZGQ5Ni00MDYxLWI5YTktNWU1NGRlYWQ1ZDg0XkEyXkFqcGdeQXVyOTAyMDgxODQ@._V1_UY317_CR20,0,214,317_AL_.jpg"
+                }
+            ]
+        },
+        {
+            "movie": {
+                "id": "13",
+                "name": "Captain America: Civil War",
+                "thumb": "https://upload.wikimedia.org/wikipedia/en/5/53/Captain_America_Civil_War_poster.jpg",
+                "trailer": "https://www.youtube.com/watch?v=1L3c17AmCZw",
+                "release_date": 1573837200,
+                "rate": 83,
+                "votes": "367.35k votes",
+                "duration": 7420
+            },
+            "tami": [
+                "3D-MAX",
+                "2D"
+            ],
+            "tags": [
+                "Action",
+                "Adventure",
+                "Sci-Fi"
+            ],
+            "offers": [
+                {
+                    "id": "1",
+                    "type": "red",
+                    "title": "Monday Night Special! Free Popcorn - RED Reward",
+                    "content": "Reserve your seats now and tap on the reward box to claim your free popcorn."
+                },
+                {
+                    "id": "2",
+                    "type": "green",
+                    "title": "Birthday Surprise! Free Cola - GREEN Reward",
+                    "content": "Enjoy a 50% discount (up to VND 30,000) on two GrabBike or GrabCar rides. Offer valid for new users. Expires on 22/04/2025."
+                }
+            ],
+            "total_reviews": 226176,
+            "latest_reviews": {
+                "author": "thependragonscribe",
+                "created": 1573867200,
+                "content": "The Marvel universe gets tenser with the most-awaited \"Civil War\". For what fans clamor to be a storyline that the MCU is building towards, here comes a showdown of Marvel's biggest properties.\n\n\"Captain America 3\" starts off where \"Avengers: Age of Ultron\" ended, when the New Avengers, led by Steve Rogers/Captain America (Chris Evans), are cornered by international concern in response to continuous collateral damage. As a result, a governing act is proposed to the Avengers, fracturing the team to two sides, one led by Rogers and another led by Tony Stark/Iron Man (Robert Downey Jr.). But when a new threat is on the horizon, the team has to face the repercussions of their brawls.",
+                "avatar": "https://m.media-amazon.com/images/M/MV5BMTY1Mjk2MjUyNl5BMl5BanBnXkFtZTgwODY1NzY5MTE@._V1_SY100_SX100_.jpg"
+            },
+            "casts": [
+                {
+                    "name": "Chris Evans",
+                    "photo": "https://m.media-amazon.com/images/M/MV5BMTU2NTg1OTQzMF5BMl5BanBnXkFtZTcwNjIyMjkyMg@@._V1_UY317_CR6,0,214,317_AL_.jpg"
+                },
+                {
+                    "name": "Robert Downey Jr.",
+                    "photo": "https://m.media-amazon.com/images/M/MV5BNzg1MTUyNDYxOF5BMl5BanBnXkFtZTgwNTQ4MTE2MjE@._V1_UX214_CR0,0,214,317_AL_.jpg"
+                },
+                {
+                    "name": "Scarlett Johansson",
+                    "photo": "https://m.media-amazon.com/images/M/MV5BMTM3OTUwMDYwNl5BMl5BanBnXkFtZTcwNTUyNzc3Nw@@._V1_UY317_CR23,0,214,317_AL_.jpg"
+                },
+                {
+                    "name": "Sebastian Stan",
+                    "photo": "https://m.media-amazon.com/images/M/MV5BNTk2OGU4NzktODhhOC00Nzc2LWIyNzYtOWViMjljZGFiNTMxXkEyXkFqcGdeQXVyMTE1NTQwOTk@._V1_UY317_CR15,0,214,317_AL_.jpg"
+                },
+                {
+                    "name": "Anthony Mackie",
+                    "photo": "https://m.media-amazon.com/images/M/MV5BMTk3NTM1MjE2M15BMl5BanBnXkFtZTcwNzc5OTI2Mg@@._V1_UY317_CR17,0,214,317_AL_.jpg"
+                }
+            ]
+        },
+        {
+            "movie": {
+                "id": "6",
+                "name": "No Time to Die",
+                "thumb": "https://www.mensjournal.com/.image/c_limit%2Ccs_srgb%2Cq_auto:good%2Cw_700/MTk2MTM1Nzc2MTQwNDY5NzY1/bond-poster-main-1.webp",
+                "trailer": "https://www.youtube.com/watch?v=N_gD9-Oa0fg",
+                "release_date": 1592672400,
+                "rate": 86,
+                "votes": "12.8k votes",
+                "duration": 8520
+            },
+            "tami": [
+                "3D",
+                "2D"
+            ],
+            "tags": [
+                "Action",
+                "Adventure",
+                "Thriller"
+            ],
+            "offers": [
+                {
+                    "id": "1",
+                    "type": "red",
+                    "title": "Monday Night Special! Free Popcorn - RED Reward",
+                    "content": "Reserve your seats now and tap on the reward box to claim your free popcorn."
+                },
+                {
+                    "id": "2",
+                    "type": "green",
+                    "title": "Birthday Surprise! Free Cola - GREEN Reward",
+                    "content": "Enjoy a 50% discount (up to VND 30,000) on two GrabBike or GrabCar rides. Offer valid for new users. Expires on 22/04/2025."
+                }
+            ],
+            "total_reviews": 82266,
+            "latest_reviews": {
+                "author": "ChiSox3514",
+                "created": 1592872400,
+                "content": "As a lifelong James Bond enthusiast who has been extremely disappointed with the franchise's latest efforts (with the exception of Casino Royale), I was extremely pleased with this film. It strayed away from the storyline of the previous two films and I couldn't have been happier after the mediocrity of Quantum of Solace. This film has all the constituents from the Bond films that have preceded it. Big explosions, ridiculous stunts that not a single person in the history of humanity can survive, and let's not forget to mention the beautiful women that would make both genders stop and stare. So what does Skyfall have that the other Bond films don't? For the first time, we get a glimpse into our mysterious hero's dark past. Where he came from and what made him the person he is today.",
+                "avatar": "https://avatarfiles.alphacoders.com/374/thumb-1920-374256.jpeg"
+            },
+            "casts": [
+                {
+                    "name": "Ana de Armas",
+                    "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Ana_de_Armas_at_the_2024_Toronto_International_Film_Festival_05_%28cropped%29.jpg/220px-Ana_de_Armas_at_the_2024_Toronto_International_Film_Festival_05_%28cropped%29.jpg"
+                },
+                {
+                    "name": "Rami Malek",
+                    "photo": "https://m.media-amazon.com/images/M/MV5BODA3OTM4ODU0MV5BMl5BanBnXkFtZTgwNjQ5Njg3NjM@._V1_UX214_CR0,0,214,317_AL_.jpg"
+                },
+                {
+                    "name": "Daniel Craig",
+                    "photo": "https://m.media-amazon.com/images/M/MV5BMjEzMjk4NDU4MF5BMl5BanBnXkFtZTcwMDMyNjQzMg@@._V1_UX214_CR0,0,214,317_AL_.jpg"
+                },
+                {
+                    "name": "Ralph Fiennes",
+                    "photo": "https://m.media-amazon.com/images/M/MV5BMzc5MjE1NDgyN15BMl5BanBnXkFtZTcwNzg2ODgwNA@@._V1_UY317_CR14,0,214,317_AL_.jpg"
+                },
+                {
+                    "name": "Jack Reynor",
+                    "photo": "https://m.media-amazon.com/images/M/MV5BMjExOTU1NTM0MF5BMl5BanBnXkFtZTcwNDQ2ODE2OQ@@._V1_UY317_CR39,0,214,317_AL_.jpg"
+                },
+                {
+                    "name": "Léa Seydoux",
+                    "photo": "https://m.media-amazon.com/images/M/MV5BMjM3MTczNzY1MF5BMl5BanBnXkFtZTgwNjgwODgzNDE@._V1_UY317_CR6,0,214,317_AL_.jpg"
+                }
+            ]
+        },
+        {
+            "movie": {
+                "id": "7",
+                "name": "Age of Extinction",
+                "thumb": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0f/Transformers_Age_of_Extinction_poster.jpg/220px-Transformers_Age_of_Extinction_poster.jpg",
+                "trailer": "https://www.youtube.com/watch?v=dYDGqmxMZFI",
+                "release_date": 1414429200,
+                "rate": 99,
+                "votes": "48.3k votes",
+                "duration": 8320
+            },
+            "tami": [
+                "3D-MAX",
+                "2D"
+            ],
+            "tags": [
+                "Action",
+                "Adventure",
+                "Sci-Fi"
+            ],
+            "offers": [
+                {
+                    "id": "1",
+                    "type": "red",
+                    "title": "Monday Night Special! Free Popcorn - RED Reward",
+                    "content": "Reserve your seats now and tap on the reward box to claim your free popcorn."
+                },
+                {
+                    "id": "2",
+                    "type": "green",
+                    "title": "Birthday Surprise! Free Cola - GREEN Reward",
+                    "content": "Enjoy a 50% discount (up to VND 30,000) on two GrabBike or GrabCar rides. Offer valid for new users. Expires on 22/04/2025."
+                }
+            ],
+            "total_reviews": 237193,
+            "latest_reviews": {
+                "author": "kz917-1",
+                "created": 1414479200,
+                "content": "Good, enjoyable action flick!\n\nMark Wahlberg looking tough, saving his daughter and the world.\n\nTotally not necessary to be almost three hours long though!?\n\nA sequel movie that is not afraid to make fun of itself though. One of the best lines, \"Man, I hate sequels they always suck and never do as good as the first.\" Bonus points for self deprecation!\n\nWorth a rental - but forewarning it's a three hour tour.",
+                "avatar": "https://cellphones.com.vn/sforum/wp-content/uploads/2024/01/avartar-anime-1.jpg"
+            },
+            "casts": [
+                {
+                    "name": "Mark Wahlberg",
+                    "photo": "https://m.media-amazon.com/images/M/MV5BMTU0MTQ4OTMyMV5BMl5BanBnXkFtZTcwMTQxOTY1NA@@._V1_UY317_CR14,0,214,317_AL_.jpg"
+                },
+                {
+                    "name": "Stanley Tucci",
+                    "photo": "https://m.media-amazon.com/images/M/MV5BMTU1MzE4MjAzMV5BMl5BanBnXkFtZTcwMjA2MTMyMw@@._V1_UY317_CR9,0,214,317_AL_.jpg"
+                },
+                {
+                    "name": "Kelsey Grammer",
+                    "photo": "https://m.media-amazon.com/images/M/MV5BMjEyNjkxODM5N15BMl5BanBnXkFtZTcwMTU3NDE1Mg@@._V1_UY317_CR9,0,214,317_AL_.jpg"
+                },
+                {
+                    "name": "Nicola Peltz",
+                    "photo": "https://m.media-amazon.com/images/M/MV5BNDUyMzIzN2ItN2Q0NC00ZjRjLWIxM2MtM2U3OGZlNTM2ZTYxXkEyXkFqcGdeQXVyMTkyNTc4MDE@._V1_UX214_CR0,0,214,317_AL_.jpg"
+                },
+                {
+                    "name": "Jack Reynor",
+                    "photo": "https://m.media-amazon.com/images/M/MV5BMjExOTU1NTM0MF5BMl5BanBnXkFtZTcwNDQ2ODE2OQ@@._V1_UY317_CR39,0,214,317_AL_.jpg"
+                },
+                {
+                    "name": "Titus Welliver",
+                    "photo": "https://m.media-amazon.com/images/M/MV5BMTY0OTA0Mzg3N15BMl5BanBnXkFtZTcwNDExMzc0Mw@@._V1_UY317_CR19,0,214,317_AL_.jpg"
+                },
+                {
+                    "name": "Sophia Myles",
+                    "photo": "https://m.media-amazon.com/images/M/MV5BMTgxMDI5MDY2Nl5BMl5BanBnXkFtZTcwNjA3ODYyMQ@@._V1_UY317_CR6,0,214,317_AL_.jpg"
+                },
+                {
+                    "name": "Bingbing Li",
+                    "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Li_Bingbing.png/220px-Li_Bingbing.png"
+                },
+                {
+                    "name": "T.J. Miller",
+                    "photo": "https://m.media-amazon.com/images/M/MV5BMjIwMzI0NTEwMF5BMl5BanBnXkFtZTcwMjk4MDkxNA@@._V1_UY317_CR3,0,214,317_AL_.jpg"
+                },
+                {
+                    "name": "James Bachman",
+                    "photo": "https://m.media-amazon.com/images/M/MV5BMjAzMDAxMTA5NV5BMl5BanBnXkFtZTgwNzMyNjI3NzE@._V1_UX214_CR0,0,214,317_AL_.jpg"
+                },
+                {
+                    "name": "Thomas Lennon",
+                    "photo": "https://m.media-amazon.com/images/M/MV5BZDBkOGUxNjQtOGFiOC00ZGI1LWJiM2MtMjc0N2JiNTU4MzM1XkEyXkFqcGdeQXVyNDQwOTUzMA@@._V1_UY317_CR12,0,214,317_AL_.jpg"
+                },
+                {
+                    "name": "Charles Parnell",
+                    "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Charles_Parnell_2014.jpg/220px-Charles_Parnell_2014.jpg"
+                },
+                {
+                    "name": "Erika Fong",
+                    "photo": "https://m.media-amazon.com/images/M/MV5BZDhkMTYyNzAtZjNjYi00MWIxLWFhYmUtMzJhOTE5ZDRiZWRiXkEyXkFqcGdeQXVyMjg2Njc2NzA@._V1_UY317_CR140,0,214,317_AL_.jpg"
+                },
+                {
+                    "name": "Michael Collins",
+                    "photo": "https://m.media-amazon.com/images/M/MV5BZTc5ZmZjZGQtZjgwOS00OGIyLWFjMjQtMjNmNmQ4ODU1YzE3XkEyXkFqcGdeQXVyNjUxMjc1OTM@._V1_UY317_CR273,0,214,317_AL_.jpg"
+                },
+                {
+                    "name": "Geng Han",
+                    "photo": "https://m.media-amazon.com/images/M/MV5BMTQ2Njk5MDc0MF5BMl5BanBnXkFtZTcwMjg0ODY4OQ@@._V1_UY317_CR3,0,214,317_AL_.jpg"
+                }
+            ]
+        },
+        {
+            "movie": {
+                "id": "8",
+                "name": "Hitman Agent Jun",
+                "thumb": "https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Hitman_Agent_Jun.jpg/220px-Hitman_Agent_Jun.jpg",
+                "trailer": "https://www.youtube.com/watch?v=dzQXNZFwKoQ",
+                "release_date": 1585841291,
+                "rate": 94,
+                "votes": "1.8k votes",
+                "duration": 5640
+            },
+            "tami": [
+                "3D",
+                "2D"
+            ],
+            "tags": [
+                "Action",
+                "Drama",
+                "Comedy"
+            ],
+            "offers": [
+                {
+                    "id": "1",
+                    "type": "red",
+                    "title": "Monday Night Special! Free Popcorn - RED Reward",
+                    "content": "Reserve your seats now and tap on the reward box to claim your free popcorn."
+                },
+                {
+                    "id": "2",
+                    "type": "green",
+                    "title": "Birthday Surprise! Free Cola - GREEN Reward",
+                    "content": "Enjoy a 50% discount (up to VND 30,000) on two GrabBike or GrabCar rides. Offer valid for new users. Expires on 22/04/2025."
+                }
+            ],
+            "total_reviews": 1403,
+            "latest_reviews": {
+                "author": "John Wich",
+                "created": 1585986181,
+                "content": "With all the updates after the last few months the app has improved a lot. Keeps me up to date.",
+                "avatar": "https://cellphones.com.vn/sforum/wp-content/uploads/2024/01/avartar-anime-2.jpg"
+            },
+            "casts": [
+                {
+                    "name": "Kwon Sang-Woo",
+                    "photo": "http://asianwiki.com/images/9/99/Kwon-Sang-Woo-The_Accidental_Detective.jpg"
+                },
+                {
+                    "name": "Jung Joon-Ho",
+                    "photo": "http://asianwiki.com/images/a/a1/Jung_Jun-Ho-p2.jpg"
+                },
+                {
+                    "name": "Hwang Woo Seul Hye",
+                    "photo": "http://asianwiki.com/images/c/c4/Hwang_Woo_Seul_Hye-1979-p1.jpg"
+                },
+                {
+                    "name": "Lee Yi-Kyung",
+                    "photo": "http://asianwiki.com/images/2/2e/Lee_Yi-Kyung-1989-p01.jpg"
+                }
+            ]
+        }
+    ],
+    "exclusive": [
+        {
+            "movie": {
+                "id": "9",
+                "name": "BLOODSHOT",
+                "thumb": "https://upload.wikimedia.org/wikipedia/en/4/45/Bloodshot_-_official_film_poster.jpeg",
+                "trailer": "https://www.youtube.com/watch?v=vOUVVDWdXbo",
+                "release_date": 1590030000,
+                "rate": 87,
+                "votes": "2.3k votes",
+                "duration": 5240
+            },
+            "tami": [
+                "2D"
+            ],
+            "tags": [
+                "Action",
+                "Drama",
+                "Sci-Fi"
+            ],
+            "offers": [
+                {
+                    "id": "1",
+                    "type": "red",
+                    "title": "Monday Night Special! Free Popcorn - RED Reward",
+                    "content": "Reserve your seats now and tap on the reward box to claim your free popcorn."
+                },
+                {
+                    "id": "2",
+                    "type": "green",
+                    "title": "Birthday Surprise! Free Cola - GREEN Reward",
+                    "content": "Enjoy a 50% discount (up to VND 30,000) on two GrabBike or GrabCar rides. Offer valid for new users. Expires on 22/04/2025."
+                }
+            ],
+            "total_reviews": 8403,
+            "latest_reviews": {
+                "author": "Eliza González Was A Joy",
+                "created": 1590040000,
+                "content": "I didn't like it, but I wouldn't say I hated it. It is a very silly film that is seemingly aware (At least I hope it is) of how silly it is. It's pretty tame violence and blood wise, it's pretty much all in the trailers which is disappointing.",
+                "avatar": "https://cellphones.com.vn/sforum/wp-content/uploads/2024/01/avartar-anime-3.jpg"
+            },
+            "casts": [
+                {
+                    "name": "Vin Diesel",
+                    "photo": "https://m.media-amazon.com/images/M/MV5BMjExNzA4MDYxN15BMl5BanBnXkFtZTcwOTI1MDAxOQ@@._V1_UY317_CR7,0,214,317_AL_.jpg"
+                },
+                {
+                    "name": "Eiza González",
+                    "photo": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/yfSlNkvqPeLKd1qDesxuShQ6HGR.jpg"
+                },
+                {
+                    "name": "Sam Heughan",
+                    "photo": "https://m.media-amazon.com/images/M/MV5BMTUwNzAyMzA2MF5BMl5BanBnXkFtZTgwNzA0MjQ1ODE@._V1_UX214_CR0,0,214,317_AL_.jpg"
+                },
+                {
+                    "name": "Toby Kebbell",
+                    "photo": "https://m.media-amazon.com/images/M/MV5BM2EyODM5NDctMWU3Zi00NDc2LWFhYzQtNmQ2ZDJiZTczMDgwXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_UY317_CR19,0,214,317_AL_.jpg"
+                },
+                {
+                    "name": "Talulah Riley",
+                    "photo": "https://m.media-amazon.com/images/M/MV5BMjE0MzUwNTUxM15BMl5BanBnXkFtZTcwNzU1OTY5Ng@@._V1_UY317_CR10,0,214,317_AL_.jpg"
+                },
+                {
+                    "name": "Lamorne Morris",
+                    "photo": "https://m.media-amazon.com/images/M/MV5BNmJhMWJkNTgtODIzMC00ZmIzLTliMjUtZGZmMmM1MTU5OTZhXkEyXkFqcGdeQXVyMjY5MDMxMzQ@._V1_UY317_CR51,0,214,317_AL_.jpg"
+                },
+                {
+                    "name": "Guy Pearce",
+                    "photo": "https://m.media-amazon.com/images/M/MV5BMTgyNzc2NzY3Nl5BMl5BanBnXkFtZTgwNTMzMzAwMjE@._V1_UX214_CR0,0,214,317_AL_.jpg"
+                },
+                {
+                    "name": "Jóhannes Haukur Jóhannesson",
+                    "photo": "https://m.media-amazon.com/images/M/MV5BMDExOTNkNDAtZDExYi00MzI1LWJiMzQtZjljZTQwNjUxNGI1XkEyXkFqcGdeQXVyMTcxMTg3NDE@._V1_UY317_CR12,0,214,317_AL_.jpg"
+                },
+                {
+                    "name": "Alex Hernandez",
+                    "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Alexander_Hernandez_Jan_19%2C_2019.jpg/220px-Alexander_Hernandez_Jan_19%2C_2019.jpg"
+                },
+                {
+                    "name": "Tamer Burjaq",
+                    "photo": "https://m.media-amazon.com/images/M/MV5BOTIyZmE4YzgtMmJlOC00NDFkLTg2M2UtZGVkNWEyNjllYjM0XkEyXkFqcGdeQXVyNjUxMjc1OTM@._V1_UY317_CR115,0,214,317_AL_.jpg"
+                }
+            ]
+        },
+        {
+            "movie": {
+                "id": "10",
+                "name": "Pacific Rim: Uprising",
+                "thumb": "https://upload.wikimedia.org/wikipedia/en/thumb/1/12/Pacific_Rim_-_Uprising_%282018_film%29.jpg/220px-Pacific_Rim_-_Uprising_%282018_film%29.jpg",
+                "trailer": "https://www.youtube.com/watch?v=fUjicxMPDzs",
+                "release_date": 1526180400,
+                "rate": 99,
+                "votes": "23.2k votes",
+                "duration": 6720
+            },
+            "tami": [
+                "3D",
+                "2D"
+            ],
+            "tags": [
+                "Action",
+                "Adventure",
+                "Sci-Fi "
+            ],
+            "offers": [
+                {
+                    "id": "1",
+                    "type": "red",
+                    "title": "Monday Night Special! Free Popcorn - RED Reward",
+                    "content": "Reserve your seats now and tap on the reward box to claim your free popcorn."
+                },
+                {
+                    "id": "2",
+                    "type": "green",
+                    "title": "Birthday Surprise! Free Cola - GREEN Reward",
+                    "content": "Enjoy a 50% discount (up to VND 30,000) on two GrabBike or GrabCar rides. Offer valid for new users. Expires on 22/04/2025."
+                }
+            ],
+            "total_reviews": 23901,
+            "latest_reviews": {
+                "author": "Peterp-450-298716 ",
+                "created": 1585986181,
+                "content": "What amazed me the most was the fact that I couldn't remember much of \"Pacific Rim\", even though I thought it was an original-looking film years ago. No worries. Little by little everything is explained again in such a way that I partially knew it again. And even though \"Pacific Rim\" wasn't high-quality cinema and simply a very expensive monster film with superb looking computer-generated images, the film impressed me at the time. \"Pacific Rim\" was brainless amusement with a high entertainment value. This sequel is simply a duplicate with other main characters in identical Jaegers. But it's so irritating and annoying mostly. I was hoping this time the Kaiju's took control and destroyed planet earth. That way we don't need to be afraid of a possible sequel in the future.",
+                "avatar": "https://m.media-amazon.com/images/M/MV5BMjE2NDI1NzgzN15BMl5BanBnXkFtZTgwNDc0NzUzNjE@._V1_SY100_SX100_.jpg"
+            },
+            "casts": [
+                {
+                    "name": "John Boyega",
+                    "photo": "https://m.media-amazon.com/images/M/MV5BMDg4NWZjNmEtZWVmNC00MzdhLTlhOTEtZmViYjdmMzhjMTAyXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_UY317_CR20,0,214,317_AL_.jpg"
+                },
+                {
+                    "name": "Scott Eastwood",
+                    "photo": "https://m.media-amazon.com/images/M/MV5BODQ4ODU5NjIxMF5BMl5BanBnXkFtZTgwNzIzNTIzNzM@._V1_UY317_CR12,0,214,317_AL_.jpg"
+                },
+                {
+                    "name": "Cailee Spaeny",
+                    "photo": "https://m.media-amazon.com/images/M/MV5BMTU1NzA0MjEwNV5BMl5BanBnXkFtZTgwNTE5ODczNjM@._V1_UY317_CR15,0,214,317_AL_.jpg"
+                },
+                {
+                    "name": "Charlie Day",
+                    "photo": "https://m.media-amazon.com/images/M/MV5BYjI2YWE1ODUtNTFjNy00MDgyLWJmNzgtNjBiZWE1NDY1YzFhXkEyXkFqcGdeQXVyODgwOTcwMDY@._V1_UY317_CR11,0,214,317_AL_.jpg"
+                }
+            ]
+        },
+        {
+            "movie": {
+                "id": "11",
+                "name": "Avengers: Infinity War",
+                "thumb": "https://upload.wikimedia.org/wikipedia/en/4/4d/Avengers_Infinity_War_poster.jpg",
+                "trailer": "https://www.youtube.com/watch?v=6ZfuNTqbHE8",
+                "release_date": 1526180400,
+                "rate": 97,
+                "votes": "83.5k votes",
+                "duration": 8720
+            },
+            "tami": [
+                "2D"
+            ],
+            "tags": [
+                "Action",
+                "Adventure",
+                "Sci-Fi "
+            ],
+            "offers": [
+                {
+                    "id": "1",
+                    "type": "red",
+                    "title": "Monday Night Special! Free Popcorn - RED Reward",
+                    "content": "Reserve your seats now and tap on the reward box to claim your free popcorn."
+                },
+                {
+                    "id": "2",
+                    "type": "green",
+                    "title": "Birthday Surprise! Free Cola - GREEN Reward",
+                    "content": "Enjoy a 50% discount (up to VND 30,000) on two GrabBike or GrabCar rides. Offer valid for new users. Expires on 22/04/2025."
+                }
+            ],
+            "total_reviews": 832901,
+            "latest_reviews": {
+                "author": "Jesper2801",
+                "created": 1526280400,
+                "content": "I consider myself a big comic book marvel fan. My favorite films from the franchise so far, are Cap. American: Winter Soldier and Thor: Ragnarok. As this movie was directed by the same guys as Winter Soldier and Civil War, I went into this movie with sky-high expectations.\n\nI am gonna keep this brief: Avengers: Infinity War blew me away! If I should mention just one thing that really amazed me was the character of Thanos. He is so well developed and makes for a super interesting and complex villain. As an audience, we are actually capable of sympathizing with a guy, who wants to kill off half of the universe. It's not about power or dominance. It's about preserving life in a Universe with finite resources - a goal with leads him (and the avengers) into several interesting moral dilemmas.\n\nI agree with the other reviews here. This movie is such a beautiful calamity of 10 years of the best superhero entertainment there is. Thinking about it, I can't really grasp how the director pulled this off. So many well developed characters from different story lines are working together in a true cinematic symphony.\n\nI give this movie my highest recommendations. It's a must-see for anyone with just a remote interest in the franchise.",
+                "avatar": "https://cellphones.com.vn/sforum/wp-content/uploads/2024/01/avartar-anime-3.jpg"
+            },
+            "casts": [
+                {
+                    "name": "Robert Downey Jr.",
+                    "photo": "https://m.media-amazon.com/images/M/MV5BNzg1MTUyNDYxOF5BMl5BanBnXkFtZTgwNTQ4MTE2MjE@._V1_UX214_CR0,0,214,317_AL_.jpg"
+                },
+                {
+                    "name": "Chris Hemsworth",
+                    "photo": "https://m.media-amazon.com/images/M/MV5BOTU2MTI0NTIyNV5BMl5BanBnXkFtZTcwMTA4Nzc3OA@@._V1_UX214_CR0,0,214,317_AL_.jpg"
+                },
+                {
+                    "name": "Mark Ruffalo",
+                    "photo": "https://m.media-amazon.com/images/M/MV5BNDQyNzMzZTMtYjlkNS00YzFhLWFhMTctY2M4YmQ1NmRhODBkXkEyXkFqcGdeQXVyNjcyNzgyOTE@._V1_UY317_CR20,0,214,317_AL_.jpg"
+                },
+                {
+                    "name": "Chris Evans",
+                    "photo": "https://m.media-amazon.com/images/M/MV5BMTU2NTg1OTQzMF5BMl5BanBnXkFtZTcwNjIyMjkyMg@@._V1_UY317_CR6,0,214,317_AL_.jpg"
+                },
+                {
+                    "name": "Scarlett Johansson",
+                    "photo": "https://m.media-amazon.com/images/M/MV5BMTM3OTUwMDYwNl5BMl5BanBnXkFtZTcwNTUyNzc3Nw@@._V1_UY317_CR23,0,214,317_AL_.jpg"
+                },
+                {
+                    "name": "Don Cheadle",
+                    "photo": "https://m.media-amazon.com/images/M/MV5BNDMxNDM3MzY5N15BMl5BanBnXkFtZTcwMjkzOTY4MQ@@._V1_UY317_CR17,0,214,317_AL_.jpg"
+                },
+                {
+                    "name": "Benedict Cumberbatch",
+                    "photo": "https://m.media-amazon.com/images/M/MV5BMjE0MDkzMDQwOF5BMl5BanBnXkFtZTgwOTE1Mjg1MzE@._V1_UY317_CR2,0,214,317_AL_.jpg"
+                },
+                {
+                    "name": "Tom Holland",
+                    "photo": "https://m.media-amazon.com/images/M/MV5BNTAzMzA3NjQwOF5BMl5BanBnXkFtZTgwMDUzODQ5MTI@._V1_UY317_CR23,0,214,317_AL_.jpg"
+                },
+                {
+                    "name": "Chadwick Boseman",
+                    "photo": "https://m.media-amazon.com/images/M/MV5BMTk2OTY5MzcwMV5BMl5BanBnXkFtZTgwODM4MDI5MjI@._V1_UX214_CR0,0,214,317_AL_.jpg"
+                },
+                {
+                    "name": "Zoe Saldana",
+                    "photo": "https://m.media-amazon.com/images/M/MV5BMTM2MjIwOTc0Nl5BMl5BanBnXkFtZTcwNzQ5ODM1Mw@@._V1_UX214_CR0,0,214,317_AL_.jpg"
+                },
+                {
+                    "name": "Karen Gillan",
+                    "photo": "https://m.media-amazon.com/images/M/MV5BMTQwMDQ0NDk1OV5BMl5BanBnXkFtZTcwNDcxOTExNg@@._V1_UY317_CR2,0,214,317_AL_.jpg"
+                },
+                {
+                    "name": "Tom Hiddleston",
+                    "photo": "https://m.media-amazon.com/images/M/MV5BNWYwODAyZjAtOTQ1My00MDY2LTg0NDQtZGFiMDRiYzY4ZmM2XkEyXkFqcGdeQXVyNjg2NjQwMDQ@._V1_UY317_CR9,0,214,317_AL_.jpg"
+                },
+                {
+                    "name": "Paul Bettany",
+                    "photo": "https://m.media-amazon.com/images/M/MV5BNjUzMDIzNjkxMl5BMl5BanBnXkFtZTgwNjgyNzA0MjI@._V1_UY317_CR131,0,214,317_AL_.jpg"
+                },
+                {
+                    "name": "Elizabeth Olsen",
+                    "photo": "https://m.media-amazon.com/images/M/MV5BMjEzMjA0ODk1OF5BMl5BanBnXkFtZTcwMTA4ODM3OQ@@._V1_UY317_CR6,0,214,317_AL_.jpg"
+                },
+                {
+                    "name": "Anthony Mackie",
+                    "photo": "https://m.media-amazon.com/images/M/MV5BMTk3NTM1MjE2M15BMl5BanBnXkFtZTcwNzc5OTI2Mg@@._V1_UY317_CR17,0,214,317_AL_.jpg"
+                }
+            ]
+        }
+    ]
+}

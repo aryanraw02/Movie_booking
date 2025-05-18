@@ -1,0 +1,141 @@
+{
+    "data": [
+        {
+            "seat_type": "jack",
+            "price": "80.0",
+            "seat_rows": [
+                {
+                    "row_id": "A",
+                    "count": 11,
+                    "offs": [
+                        4,
+                        5
+                    ],
+                    "booked": [
+                        0,
+                        1,
+                        2,
+                        3
+                    ]
+                },
+                {
+                    "row_id": "B",
+                    "count": 11,
+                    "offs": [
+                        4,
+                        5
+                    ],
+                    "booked": [
+                        1,
+                        2,
+                        6,
+                        7
+                    ]
+                },
+                {
+                    "row_id": "C",
+                    "count": 11,
+                    "offs": [
+                        4,
+                        5
+                    ],
+                    "booked": [
+                        9,
+                        10
+                    ]
+                },
+                {
+                    "row_id": "D",
+                    "count": 11,
+                    "offs": [
+                        4,
+                        5
+                    ],
+                    "booked": [
+                        9,
+                        10
+                    ]
+                },
+                {
+                    "row_id": "E",
+                    "count": 11,
+                    "offs": [],
+                    "booked": [
+                        2,
+                        3,
+                        4,
+                        5,
+                        6,
+                        7
+                    ]
+                }
+            ]
+        },
+        {
+            "seat_type": "queen",
+            "price": "100.0",
+            "seat_rows": [
+                {
+                    "row_id": "F",
+                    "count": 11,
+                    "offs": [
+                        4,
+                        5
+                    ],
+                    "booked": [
+                        1,
+                        2,
+                        3
+                    ]
+                },
+                {
+                    "row_id": "G",
+                    "count": 11,
+                    "offs": [
+                        4,
+                        5
+                    ],
+                    "booked": [
+                        6,
+                        7,
+                        8
+                    ]
+                },
+                {
+                    "row_id": "H",
+                    "count": 11,
+                    "offs": [],
+                    "booked": [
+                        0,
+                        1,
+                        4,
+                        5,
+                        9,
+                        10
+                    ]
+                }
+            ]
+        },
+        {
+            "seat_type": "king",
+            "price": "120.0",
+            "seat_rows": [
+                {
+                    "row_id": "I",
+                    "count": 11,
+                    "offs": [
+                        4,
+                        5
+                    ],
+                    "booked": []
+                },
+                {
+                    "row_id": "J",
+                    "count": 11,
+                    "offs": [],
+                    "booked": []
+                }
+            ]
+        }
+    ]
+}
